@@ -1,0 +1,79 @@
+Transaction ID,total_value,status,notes,shipping_carrier,shipping_cost
+1,57980,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+2,29670,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+3,14980,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+4,25490,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+5,116200,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+6,5980,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+7,17990,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+8,29990,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+9,159950,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+10,20980,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+11,5690,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+12,52980,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+13,97475,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+14,14980,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+15,37480,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+16,23970,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+17,26225,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+18,5690,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+19,68470,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+20,24990,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+21,131200,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+22,25490,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+23,17970,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+24,23680,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+25,97475,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+26,14980,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+27,10490,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+28,37480,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+29,14950,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+30,52980,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+31,50680,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+32,7490,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+33,167425,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+34,10490,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+35,17990,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+36,10490,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+37,74975,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+38,44990,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+39,11990,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+40,13180,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+41,63725,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+42,38990,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+43,5980,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+44,17990,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+45,101200,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+46,50680,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+47,24990,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+48,14980,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+49,69975,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+50,41980,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+51,57980,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+52,44650,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+53,161200,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+54,31460,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+55,68980,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+56,51660,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+57,132450,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+58,79460,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+59,17970,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+60,34170,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+61,144950,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+62,80470,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+63,32980,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+64,23660,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+65,142450,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+66,50960,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+67,17970,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+68,97970,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+69,32950,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+70,66970,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+71,28480,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+72,85470,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+73,44200,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+74,71970,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
+75,23970,schváleno - k expedici,Objednávka byla automaticky schválena.,Zásilkovna,89
+76,46170,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+77,174950,čeká na naskladnění,Jeden nebo více produktů není skladem.,,0
+78,81960,schváleno - k expedici,Objednávka byla automaticky schválena.,DPD,180
